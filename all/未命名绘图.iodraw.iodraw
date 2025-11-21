@@ -23,7 +23,7 @@
           <mxGeometry x="600" y="45" width="209" height="67" as="geometry" />
         </mxCell>
         <mxCell id="9FK7IYCawCJkSL6rsCpZ-45" value="进行 AND 运算: Dest = Dest ∧ Mask cite: 135" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="183" y="212" width="226" height="67" as="geometry" />
+          <mxGeometry x="183" y="212" width="227" height="67" as="geometry" />
         </mxCell>
         <mxCell id="9FK7IYCawCJkSL6rsCpZ-46" value="结果: 背景上出现黑色棋子剪影 cite: 136" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="178" y="369" width="237" height="84" as="geometry" />
