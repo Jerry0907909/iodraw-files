@@ -13,7 +13,7 @@
         <mxCell id="9FK7IYCawCJkSL6rsCpZ-41" value="cite: 75" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="824" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="9FK7IYCawCJkSL6rsCpZ-42" value="背景图像 Destination Background" style="whiteSpace=wrap;strokeWidth=2;fillStyle=solid;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9FK7IYCawCJkSL6rsCpZ-42" value="背景图像 Destination Background" style="whiteSpace=wrap;strokeWidth=2;fillStyle=hatch;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="55" y="45" width="210" height="67" as="geometry" />
         </mxCell>
         <mxCell id="9FK7IYCawCJkSL6rsCpZ-43" value="掩码图 Mask Image: 黑底彩芯 -&gt; 白底黑芯" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -23,7 +23,7 @@
           <mxGeometry x="600" y="45" width="209" height="67" as="geometry" />
         </mxCell>
         <mxCell id="9FK7IYCawCJkSL6rsCpZ-45" value="进行 AND 运算: Dest = Dest ∧ Mask cite: 135" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="183" y="212" width="227" height="67" as="geometry" />
+          <mxGeometry x="183" y="190" width="227" height="67" as="geometry" />
         </mxCell>
         <mxCell id="9FK7IYCawCJkSL6rsCpZ-46" value="结果: 背景上出现黑色棋子剪影 cite: 136" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="178" y="369" width="237" height="84" as="geometry" />
