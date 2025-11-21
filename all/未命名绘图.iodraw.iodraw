@@ -65,7 +65,7 @@
           <mxGeometry x="3567" y="231" width="237" height="84" as="geometry" />
         </mxCell>
         <mxCell id="9FK7IYCawCJkSL6rsCpZ-125" value="是否终局?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="69" y="580" width="120" height="120" as="geometry" />
+          <mxGeometry x="3910" y="259" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9FK7IYCawCJkSL6rsCpZ-126" value="结算阶段 Finalization Phase cite: 57" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4096" y="321" width="259" height="67" as="geometry" />
