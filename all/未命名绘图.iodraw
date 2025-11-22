@@ -22,7 +22,7 @@
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-11" value="分支A：    玩家回合" style="whiteSpace=wrap;strokeWidth=2;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="39.5" y="730" width="275" height="561" as="geometry" />
         </mxCell>
-        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-13" value="Judge the current_player pointer" style="rhombus;strokeWidth=2;whiteSpace=wrap;rounded=1;shadow=0;fontFamily=Comic Sans MS;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-13" value="Judge the current_player pointer" style="rhombus;strokeWidth=2;whiteSpace=wrap;rounded=1;shadow=0;fontFamily=Comic Sans MS;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="385" y="439" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-14" value="Unlock input Lock" style="rounded=1;arcSize=20;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" vertex="1" parent="1">
