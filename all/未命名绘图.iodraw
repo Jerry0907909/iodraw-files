@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 QuarkPC/4.7.2.599" version="24.7.17">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="1037" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2183" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-17" value="Execute the coordinate inverse mapping algorithm" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="75" y="1140" width="205" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-18" value="Return the move instruction" style="whiteSpace=wrap;strokeWidth=2;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-18" value="Return the move instruction" style="whiteSpace=wrap;strokeWidth=2;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="99" y="1228" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-19" value="Model 层执行落子" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
