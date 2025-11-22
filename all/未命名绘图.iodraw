@@ -40,7 +40,7 @@
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-18" value="Return the move instruction" style="whiteSpace=wrap;strokeWidth=2;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="98" y="1228" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-19" value="Model 层执行落子" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-19" value="The Model layer performs the placement" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="83" y="1352" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-20" value="Lock the chessboard &#xa;input channel" style="rounded=1;arcSize=20;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
