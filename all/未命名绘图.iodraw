@@ -22,7 +22,7 @@
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-11" value="分支A：玩家回合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="742" width="275" height="561" as="geometry" />
         </mxCell>
-        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-12" value="开始: 游戏主循环" style="whiteSpace=wrap;strokeWidth=2;fillColor=#DAE8FC;strokeColor=#6C8EBF;rounded=1;shadow=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-12" value="开始: 游戏主循环" style="whiteSpace=wrap;strokeWidth=2;fillColor=#DAE8FC;strokeColor=#6C8EBF;rounded=1;shadow=1;glass=0;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="408" y="340" width="185" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-13" value="判断 current_player 指针" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
