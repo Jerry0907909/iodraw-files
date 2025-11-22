@@ -22,9 +22,6 @@
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-11" value="分支A：玩家回合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="742" width="275" height="561" as="geometry" />
         </mxCell>
-        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-12" value="Game Start" style="whiteSpace=wrap;strokeWidth=2;rounded=1;shadow=1;glass=0;fillStyle=solid;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;textShadow=1;fontFamily=Comic Sans MS;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="407.5" y="340" width="185" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-13" value="判断 current_player 指针" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="385" y="439" width="230" height="230" as="geometry" />
         </mxCell>
@@ -67,9 +64,10 @@
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-26" value="进入终局结算阶段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="350" y="1795" width="190" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Q6FCvBW8dxQQnwwrOC1G-12" target="Q6FCvBW8dxQQnwwrOC1G-13">
+        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="Q6FCvBW8dxQQnwwrOC1G-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="500" y="389" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-28" value="玩家回合" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Q6FCvBW8dxQQnwwrOC1G-13" target="Q6FCvBW8dxQQnwwrOC1G-14">
@@ -159,7 +157,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-43" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 24px;&quot;&gt;Game Start&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="260" width="180" height="60" as="geometry" />
+          <mxGeometry x="410" y="330" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
