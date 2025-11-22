@@ -19,10 +19,10 @@
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-10" value="分支B：AI 回合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="335" y="988" width="331" height="439" as="geometry" />
         </mxCell>
-        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-11" value="分支A：玩家回合" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-11" value="分支A：玩家回合" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="742" width="275" height="561" as="geometry" />
         </mxCell>
-        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-13" value="Judge the current_player pointer" style="rhombus;strokeWidth=2;whiteSpace=wrap;rounded=1;shadow=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-13" value="Judge the current_player pointer" style="rhombus;strokeWidth=2;whiteSpace=wrap;rounded=1;shadow=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="385" y="439" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-14" value="Unlock input Lock" style="rounded=1;arcSize=20;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
