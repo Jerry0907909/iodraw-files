@@ -11,7 +11,7 @@
           <mxGeometry x="39.5" y="730" width="275" height="561" as="geometry" />
         </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-13" value="Judge the current_player pointer" style="rhombus;strokeWidth=2;whiteSpace=wrap;rounded=1;shadow=0;fontFamily=Comic Sans MS;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="386" y="490" width="230" height="230" as="geometry" />
+          <mxGeometry x="385" y="537" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-14" value="Unlock input Lock" style="rounded=1;arcSize=20;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="114" y="767" width="128" height="49" as="geometry" />
@@ -147,7 +147,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-43" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 24px;&quot;&gt;Game Start&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="410.5" y="300" width="180" height="60" as="geometry" />
+          <mxGeometry x="410.5" y="390" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
