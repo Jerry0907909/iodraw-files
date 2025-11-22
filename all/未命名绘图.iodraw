@@ -34,10 +34,10 @@
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-16" value="捕获有效点击事件" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="83" y="1013" width="190" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-17" value="执行坐标逆映射算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-17" value="执行坐标逆映射算法" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="1121" width="205" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-18" value="返回落子指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-18" value="返回落子指令" style="whiteSpace=wrap;strokeWidth=2;rounded=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="99" y="1228" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-19" value="Model 层执行落子" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
