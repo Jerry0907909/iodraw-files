@@ -43,7 +43,7 @@
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-19" value="Model 层执行落子" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="83" y="1352" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-20" value="Lock the chessboard &#xa;input channel" style="rounded=1;arcSize=20;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-20" value="Lock the chessboard &#xa;input channel" style="rounded=1;arcSize=20;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="420" y="1013" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-21" value="状态栏更新为 &#39;计算中&#39;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
