@@ -22,7 +22,7 @@
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-11" value="分支A：玩家回合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="742" width="275" height="561" as="geometry" />
         </mxCell>
-        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-13" value="判断 current_player 指针" style="rhombus;strokeWidth=2;whiteSpace=wrap;rounded=1;shadow=1;" vertex="1" parent="1">
+        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-13" value="Judge the current_player pointer" style="rhombus;strokeWidth=2;whiteSpace=wrap;rounded=1;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="385" y="439" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-14" value="解锁输入锁定" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
