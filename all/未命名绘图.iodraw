@@ -25,7 +25,7 @@
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-13" value="Judge the current_player pointer" style="rhombus;strokeWidth=2;whiteSpace=wrap;rounded=1;shadow=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="385" y="439" width="230" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-14" value="解锁输入锁定" style="rounded=1;arcSize=20;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-14" value="Unlock input Lock" style="rounded=1;arcSize=20;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="114" y="767" width="128" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-15" value="UI 进入高频轮询模式" style="rounded=1;arcSize=20;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-17" value="执行坐标逆映射算法" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="1121" width="205" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-18" value="返回落子指令" style="whiteSpace=wrap;strokeWidth=2;rounded=1;glass=1;" vertex="1" parent="1">
+        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-18" value="返回落子指令" style="whiteSpace=wrap;strokeWidth=2;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="99" y="1228" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-19" value="Model 层执行落子" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
