@@ -58,7 +58,7 @@
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-24" value="Rendering &#xa;synchronization" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="292" y="1476" width="94" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-25" value="检查终局条件" style="rhombus;strokeWidth=2;whiteSpace=wrap;shadow=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-25" value="Check the &#xa;final conditions" style="rhombus;strokeWidth=2;whiteSpace=wrap;shadow=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="410.5" y="1577" width="147" height="147" as="geometry" />
         </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-26" value="进入终局结算阶段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
