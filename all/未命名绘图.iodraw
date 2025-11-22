@@ -34,11 +34,11 @@
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-16" value="Capture valid click events" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="82" y="1040" width="190" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-17" value="Execute the coordinate inverse mapping algorithm" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="Q6FCvBW8dxQQnwwrOC1G-17" value="Execute the coordinate inverse mapping algorithm" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="75" y="1140" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-18" value="返回落子指令" style="whiteSpace=wrap;strokeWidth=2;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="99" y="1240" width="158" height="49" as="geometry" />
+          <mxGeometry x="99" y="1228" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Q6FCvBW8dxQQnwwrOC1G-19" value="Model 层执行落子" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="83" y="1352" width="189" height="49" as="geometry" />
